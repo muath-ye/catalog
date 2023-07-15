@@ -1,0 +1,23 @@
+{
+  "name": "@muath-ye/catalog",
+  "version": "1.0.0",
+  "description": "Show the content of files or url in your terminal",
+  "main": "app.js",
+  "bin": {
+    "cat": "./app.js"
+  },
+  "preferGlobal": true,
+  "author": "Muath Alsowadi <muath.ye@gmail.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "cat",
+    "muath-ye"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
