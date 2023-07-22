@@ -1,6 +1,6 @@
 {
   "name": "@muath-ye/catalog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show the content of files or url in your terminal",
   "main": "app.js",
   "bin": {
